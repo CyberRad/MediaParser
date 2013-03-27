@@ -1,0 +1,7 @@
+c:\users\cbrown\documents\visual studio 2010\Projects\mediaparse\mediaparse\bin\Debug\mediaparse.exe
+c:\users\cbrown\documents\visual studio 2010\Projects\mediaparse\mediaparse\bin\Debug\mediaparse.pdb
+c:\users\cbrown\documents\visual studio 2010\Projects\mediaparse\mediaparse\bin\Debug\taglib-sharp.dll
+c:\users\cbrown\documents\visual studio 2010\Projects\mediaparse\mediaparse\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cbrown\documents\visual studio 2010\Projects\mediaparse\mediaparse\obj\x86\Debug\mediaparse.exe
+c:\users\cbrown\documents\visual studio 2010\Projects\mediaparse\mediaparse\obj\x86\Debug\mediaparse.pdb
+c:\users\cbrown\documents\visual studio 2010\Projects\mediaparse\mediaparse\bin\Debug\mysql.data.dll
